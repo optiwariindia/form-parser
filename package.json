@@ -1,5 +1,5 @@
 {
-  "name": "form-parser",
+  "name": "express-form-parser",
   "version": "1.0.0",
   "description": "Form Parser for Express JS",
   "main": "index.js",
