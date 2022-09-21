@@ -1,0 +1,15 @@
+{
+  "name": "form-parser",
+  "version": "1.0.0",
+  "description": "Form Parser for Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Om Prakash Tiwari <optiwari.india@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "formidable": "^2.0.1"
+  }
+}
